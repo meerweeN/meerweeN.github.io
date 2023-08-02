@@ -1,0 +1,70 @@
+@font-face {
+	font-family: SignatFont;
+	src: url(/font/Autography-DOLnW.otf);
+  }
+
+*{
+    font-family: 'Poppins';
+}
+
+html,body {
+    width:50%;
+    margin:0 auto;  
+}
+
+.title {
+    position:relative;
+    margin-top:50px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.container {
+    align-items: center;
+    text-align: center;   
+    margin-top: 50px;  
+}
+
+#tipBtn {
+    position: relative;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+#oneBox,#twoBox,#threeBox,#fourBox,#fiveBox,#sixBox{
+    cursor: pointer;
+}
+
+.madeWith {
+    position:absolute;
+    display: block;
+    font-size:12px;
+    bottom:10px;
+    left:47%;
+    right:auto;
+    text-align: center;
+    color:#666;
+    font-family: 'Roboto';
+  }
+
+  .signName {
+	font-family: 'SignatFont';
+	font-size: 30px;
+	text-align: center;
+	margin-top: 150px;
+}
+
+.signName {
+	--c: #a9512b; 
+	--s: .15em;
+	
+	line-height:1.1em;
+	padding-bottom: calc(2.1*var(--s));
+	transition: .5s;
+  }
+  .signName:hover {
+	--_p: 100%;
+	color: var(--c);
+	font-size: 35px;
+  }

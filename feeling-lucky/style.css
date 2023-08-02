@@ -1,0 +1,220 @@
+@import url(https://fonts.googleapis.com/css?family=Khula:700);
+@font-face {
+	font-family: SignatFont;
+	src: url(/font/Autography-DOLnW.otf);
+  }
+
+
+
+.header {
+ padding: 30px;
+}
+
+.text-header {
+    text-align: center;
+    font-family: 'Roboto';
+    color: #34e637;
+    text-shadow: rgb(0, 0, 0);
+    
+}
+
+.secondRoll {
+    position: grid;
+    top: 50%;   
+    text-align: center;
+    margin-top: 5%;
+    
+}
+
+.firstRoll {
+    position: grid;
+    top: 50%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.thirdRoll {
+    position: grid;
+    top: 50%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#firstLabel  {
+    font-size: 25px;
+}
+
+#secondLabel {
+    font-size: 25px;
+}
+
+#thirdLabel {
+    font-size: 25px;
+}
+
+.notLucky {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+#firstButton {
+    background: #5E5DF0;
+    border-radius: 999px;
+    box-shadow: #5E5DF0 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+}
+
+#secondButton {
+    background: #5E5DF0;
+    border-radius: 999px;
+    box-shadow: #5E5DF0 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+}
+
+#thirdButton {
+    background: #5E5DF0;
+    border-radius: 999px;
+    box-shadow: #5E5DF0 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+
+}
+
+.feelingLost {
+     position: absolute;
+     bottom: 8px;
+     left: 16px;
+     font-size: 18px;
+}
+
+.lostButton {
+    background: #f05d5d;
+    border-radius: 999px;
+    box-shadow: #dc221b 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+}
+
+  .hidden {
+    opacity:0;
+  }
+  .console-container {
+   
+    font-family:Khula;
+    font-size:4em;
+    text-align:center;
+    height:15px;
+    width:600px;
+    display:block;
+    position:top;
+    color:white;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+    padding-top:25px;
+    padding-bottom: 30px;
+  }
+  .console-underscore {
+    display:inline-block;
+    position:relative;
+    top:-0.14em;
+    left:10px;
+  }
+
+  .madeWith {
+    position:absolute;
+    display: block;
+    font-size:12px;
+    bottom:10px;
+    left:47%;
+    right:auto;
+    text-align: center;
+    color:#666;
+    font-family: 'Roboto';
+  }
+
+  .signName {
+	font-family: 'SignatFont';
+	font-size: 30px;
+	text-align: center;
+	margin-top: 140px;
+}
+
+.signName {
+	--c: #a9512b; 
+	--s: .15em;
+	
+	line-height:1.1em;
+	padding-bottom: calc(2.1*var(--s));
+	transition: .5s;
+  }
+  .signName:hover {
+	--_p: 100%;
+	color: var(--c);
+	font-size: 35px;
+  }
+ 
+ 

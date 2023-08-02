@@ -1,0 +1,47 @@
+@font-face {
+	font-family: SignatFont;
+	src: url(/font/Autography-DOLnW.otf);
+  }
+header {
+    height: 50px;
+    font-size: larger;
+    text-align: center;
+    color:black;
+}
+
+.calculatorInSine {
+    text-align: center;
+}
+#submitButton {
+    color:rgb(90, 225, 90);
+}
+#stergeButton {
+    display:flex;
+    margin-left: 665px;
+    margin-top: 10px;
+    color:rgb(230, 80, 80);
+}
+
+
+.signName {
+	font-family: 'SignatFont';
+	font-size: 30px;
+	text-align: center;
+    margin-top: 550px;
+}
+
+.signName {
+	--c: #a9512b; 
+	--s: .15em;
+	
+	line-height:1.1em;
+	padding-bottom: calc(2.1*var(--s));
+	transition: .5s;
+  }
+  .signName:hover {
+	--_p: 100%;
+	color: var(--c);
+	font-size: 35px;
+  }
+
+
