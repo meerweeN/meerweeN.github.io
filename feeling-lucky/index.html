@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucky or not?</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,300&display=swap" rel="stylesheet">  
+    <link rel="icon" href="/images/slot.png" type="image/x-icon"/>
+    
+</head>
+<body>
+    <div class='console-container'><span id='text'></span><div class='console-underscore' id='console'>&#95;</div></div>
+    
+
+<div class="firstRoll">
+   <label id="firstLabel">You're lucky if you roll more than 6.</label> <br>
+   <button id="firstButton">Roll it!</button>
+</div>
+
+<div class="secondRoll">
+   <label id="secondLabel">You're lucky if you roll more than 15.</label> <br>
+   <button id="secondButton">Roll it!</button>
+</div>
+
+<div class="thirdRoll">
+   <label id="thirdLabel">You're lucky if you roll more than 25.</label> <br>
+   <button id="thirdButton">Roll it!</button>
+</div>
+
+<div class="notLucky"> I really do NOT think you're lucky !<br>
+    Maybe <span style="color: rgb(218, 25, 25)">do not gamble</span> today ... or anyday.
+</div>
+<div id="countingClicks"></div>
+
+<div class="feelingLost">
+    <button class="lostButton" id="lostBtn">Feeling lost? Get help!</button>
+</div>
+<span class="madeWith">
+    Made with love <span style="color: rgb(215, 75, 75)">♥</span>
+</span>
+    
+</body>
+<script src="app.js"></script>
+</html>
