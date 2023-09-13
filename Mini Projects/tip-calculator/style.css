@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,300&family=Poppins:wght@200&family=Shadows+Into+Light&display=swap');
+
+*{
+    font-family: 'Poppins';
+}
+
+html,body {
+    width:50%;
+    margin:0 auto;  
+}
+
+.title {
+    position:relative;
+    margin-top:50px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.container {
+    align-items: center;
+    text-align: center;   
+    margin-top: 50px;  
+}
+
+#tipBtn {
+    position: relative;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+#oneBox,#twoBox,#threeBox,#fourBox,#fiveBox,#sixBox{
+    cursor: pointer;
+}
+
+.madeWith {
+    position:absolute;
+    display: block;
+    font-size:12px;
+    bottom:10px;
+    left:47%;
+    right:auto;
+    text-align: center;
+    color:#666;
+    font-family: 'Roboto';
+  }
+
+ 
