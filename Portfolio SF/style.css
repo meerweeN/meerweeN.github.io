@@ -13,6 +13,13 @@ html {
   scroll-behavior: smooth;
 
 }
+body::-webkit-scrollbar {
+	display: none;
+	
+  }
+html {
+	scrollbar-width:none;
+}
 
 .homePg {
   height: 100vh;
