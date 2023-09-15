@@ -3,6 +3,7 @@ const navbar = document.querySelector(".navbar");
 const menuBtn = document.querySelector(".menu-btn");
 const cancelBtn = document.querySelector(".cancel-btn");
 const itemList = document.querySelector(".menu-list");
+
 menuBtn.onclick = ()=>{
   navbar.classList.add("show");
   menuBtn.classList.add("hide");
