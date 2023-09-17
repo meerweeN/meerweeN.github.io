@@ -1,6 +1,7 @@
 # meerweeN.github.io
 
 #MiniProjects
+
 -- just some personal mini-projects using HTML/CSS/JavaScript --
 -- 17/09/2023 // formatted code
 
