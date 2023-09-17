@@ -1,43 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <link rel="icon" type="image/x-icon" href="calc.png?">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <link rel="icon" type="image/x-icon" href="calc.png" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tip Calculator</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,300&family=Poppins:wght@200&display=swap" rel="stylesheet"> 
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,300&family=Poppins:wght@200&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
     <p class="title">Simple Tip Calculator</p>
-<div class="container">
-
-    <p class="billText">Bill ($) <br></p>
-    <input type="text" id="bill"> <br> 
-    <p class="tipText"> Tip (%) <br></p> 
-    <input type="text" id="tip"> <br>
-    
-    <p class="numberOfPersons">Number of persons to split between: </p>
-    <input type="checkbox" id="oneBox"> One
-    <input type="checkbox" id="twoBox"> Two
-    <input type="checkbox" id="threeBox"> Three
-    <input type="checkbox" id="fourBox"> Four
-    <input type="checkbox" id="fiveBox"> Five
-    <input type="checkbox" id="sixBox"> Six
-    <br>
-    <button id="tipBtn">Calculate total bill</button> <br>
-    
-    <p id="exitText"> </p>
-
-    <span class="madeWith">
+    <div class="container">
+      <p class="billText">Bill ($) <br /></p>
+      <input type="text" id="bill" /> <br />
+      <p class="tipText">Tip (%) <br /></p>
+      <input type="text" id="tip" /> <br />
+      <p class="numberOfPersons">Number of persons to split between:</p>
+      <input type="checkbox" id="oneBox" /> One
+      <input type="checkbox" id="twoBox" /> Two
+      <input type="checkbox" id="threeBox" /> Three
+      <input type="checkbox" id="fourBox" /> Four
+      <input type="checkbox" id="fiveBox" /> Five
+      <input type="checkbox" id="sixBox" /> Six
+      <br />
+      <button id="tipBtn">Calculate total bill</button> <br />
+      <p id="exitText"></p>
+      <span class="madeWith">
         Made by Stanciu Flavius <span style="color: rgb(215, 75, 75)">♥</span>
-    </span>
-</div>
+      </span>
+    </div>
+  </body>
 
-
-
-    
-</body>
-
-<script src="app.js"></script>
+  <script src="app.js"></script>
 </html>
