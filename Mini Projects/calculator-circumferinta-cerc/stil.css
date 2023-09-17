@@ -1,29 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,300&family=Poppins:wght@200&family=Shadows+Into+Light&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,300&family=Poppins:wght@200&family=Shadows+Into+Light&display=swap");
 
 * {
-  font-family: 'Poppins';
+  font-family: "Poppins";
 }
 
 header {
-    height: 50px;
-    font-size: larger;
-    text-align: center;
-    color:black;
+  height: 50px;
+  font-size: larger;
+  text-align: center;
+  color: black;
 }
 
 .calculatorInSine {
-    text-align: center;
+  text-align: center;
 }
 #submitButton {
-    color:rgb(90, 225, 90);
+  color: rgb(90, 225, 90);
 }
 #stergeButton {
-    display:flex;
-    margin-left: 770px;
-    margin-top: 10px;
-    color:rgb(230, 80, 80);
+  display: flex;
+  margin-left: 770px;
+  margin-top: 10px;
+  color: rgb(230, 80, 80);
 }
-
-
 
 
