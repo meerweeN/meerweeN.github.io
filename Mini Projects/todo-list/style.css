@@ -1,84 +1,82 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,300&family=Poppins:wght@200&family=Shadows+Into+Light&display=swap');
-html,body {
-    width:50%;
-    margin:0 auto;  
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,300&family=Poppins:wght@200&family=Shadows+Into+Light&display=swap");
+html,
+body {
+  width: 50%;
+  margin: 0 auto;
 }
 #inputBox {
-    width:200px;
-    height: 45px;
-    outline:none;
-    font-size: 20px;
-    vertical-align: middle;
-    position:relative;
-    left:20%;
-    margin-top:15px;
-    font-family: 'Poppins';
+  width: 200px;
+  height: 45px;
+  outline: none;
+  font-size: 20px;
+  vertical-align: middle;
+  position: relative;
+  left: 20%;
+  margin-top: 15px;
+  font-family: "Poppins";
 }
 
 #exitText {
-    padding-top:25px;
-    font-size: 30px;
-    position:relative;
-    left:20%;
-    font-family: 'Poppins';
+  padding-top: 25px;
+  font-size: 30px;
+  position: relative;
+  left: 20%;
+  font-family: "Poppins";
 }
 
 .title {
-    font-size:50px;
-    padding-top:5px;
-    position:relative;
-    left:20%;
-    font-family: 'Poppins';
+  font-size: 50px;
+  padding-top: 5px;
+  position: relative;
+  left: 20%;
+  font-family: "Poppins";
 }
 
 #addButton {
-    align-items: center;
-    appearance: none;
-    background-color: #fff;
-    border: 1px solid #dbdbdb;
-    border-radius: .375em;
-    box-shadow: none;
-    box-sizing: border-box;
-    color: #363636;
-    cursor: pointer;
-    display: inline-flex;
-    font-family: 'Poppins';
-    height: 50px;
-    justify-content: center;
-    line-height: 1.5;
-    padding: calc(.5em - 1px) 1em;
-    text-align: center;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    vertical-align: top;
-    white-space: nowrap;
-    margin-top: 5px;
-    position:relative;
-    left:20%;
-    margin-top:15px;
+  align-items: center;
+  appearance: none;
+  background-color: #fff;
+  border: 1px solid #dbdbdb;
+  border-radius: 0.375em;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: #363636;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "Poppins";
+  height: 50px;
+  justify-content: center;
+  line-height: 1.5;
+  padding: calc(0.5em - 1px) 1em;
+  text-align: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: top;
+  white-space: nowrap;
+  margin-top: 5px;
+  position: relative;
+  left: 20%;
+  margin-top: 15px;
 }
 
 .madeWith {
-    position:absolute;
-    display: block;
-    font-size:12px;
-    bottom:10px;
-    left:47%;
-    right:auto;
-    text-align: center;
-    color:#666;
-    font-family: 'Roboto';
-  }
+  position: absolute;
+  display: block;
+  font-size: 12px;
+  bottom: 10px;
+  left: 47%;
+  right: auto;
+  text-align: center;
+  color: #666;
+  font-family: "Roboto";
+}
 
-  .explication {
-    position: absolute;
-    bottom: 100px;
-    right: 50px;
-    font-size: 18px;
-    font-family: 'Poppins';
-    
-  }
-
-
+.explication {
+  position: absolute;
+  bottom: 100px;
+  right: 50px;
+  font-size: 18px;
+  font-family: "Poppins";
+}
