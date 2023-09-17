@@ -14,3 +14,9 @@
 - responsive to tablet // mobile // desktop // laptop 
 
 - code review // formatted code 
+
+#Teamfight Tactics Underground 
+
+- needs some more little touches
+
+- not meant for mobile/tablet uses (will not be made responsive)
