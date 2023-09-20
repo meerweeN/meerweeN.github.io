@@ -4,19 +4,23 @@
 
 - just some personal mini-projects using HTML/CSS/JavaScript --
 
-- formatted code
+- formatted code 17/09/23
 
 
-#Portfolio FS 
+#My-Portfolio - OLD
 
 - personal website portfolio // not responsive to everything yet 
 
 - responsive to tablet // mobile // desktop // laptop 
 
-- code review // formatted code 
+- formatted code 17/09/23
 
 #Teamfight Tactics Underground 
 
 - needs some more little touches
 
-- not meant for mobile/tablet uses (will not be made responsive)
+- NOT meant for mobile / tablet uses 
+
+#My-Portfolio v2 
+
+- still needs work 
