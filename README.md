@@ -2,7 +2,7 @@
 
 #MiniProjects
 
-- just some personal mini-projects using HTML/CSS/JavaScript --
+- just some personal mini-projects using HTML/CSS/JavaScript 
 
 - formatted code 17/09/23
 
@@ -19,7 +19,9 @@
 
 - needs some more little touches
 
-- NOT meant for mobile / tablet uses 
+- NOT meant for mobile / tablet uses
+
+- will not be made responsive 
 
 #My-Portfolio v2 
 
