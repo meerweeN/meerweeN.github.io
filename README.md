@@ -19,9 +19,7 @@
 
 - needs some more little touches
 
-- NOT meant for mobile / tablet uses
-
-- will not be made responsive 
+- not really meant for mobile / tablets but I will soon make it responsive :)
 
 #My-Portfolio v2 
 
