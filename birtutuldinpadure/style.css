@@ -886,4 +886,16 @@ iframe {
 	font-weight: 100;
 }
 
+@media screen and (max-width: 1600px) {
+	
+	iframe {
+		width: 800px;
+	}
+	.right-contact {
+		width: 55%;
+	}
+	
+  }
+
+
 
