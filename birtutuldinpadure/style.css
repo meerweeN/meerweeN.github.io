@@ -433,21 +433,21 @@ input {
 .container-Border {
 	align-items: center;
 	display: flex;
-	height: 80vh;
+	height: 750px;
 	justify-content: center;
 }
 
 .container-Border-Events {
 	align-items: center;
 	display: flex;
-	height: 80vh;
+	height: 750px;
 	justify-content: center;
 }
 
 .container-Border-Events-2 {
 	align-items: center;
 	display: flex;
-	height: 80vh;
+	height: 750px;
 	justify-content: center;
 }
 
@@ -494,7 +494,7 @@ input {
 .containerBorder2 {
 	align-items: center;
 	display: flex;
-	height: 80vh;
+	height: 750px;
 	justify-content: center;
 }
 
