@@ -896,6 +896,355 @@ iframe {
 	}
 	
   }
+@media screen and (max-width: 1600px) {
+	
+	iframe {
+		width: 800px;
+	}
+	.right-contact {
+		width: 55%;
+	}
+	
+  }
 
+  
+@media screen and (max-width: 1500px) {
+
+	.container-contact {
+		margin-top: 35%;
+	}
+	
+  }
+
+  @media screen and (max-width: 1360px) {
+
+	iframe {
+		width: 650px;
+	}
+
+	.container-contact {
+		margin-top: 55%;
+	}
+	
+  }
+
+
+  @media screen and (max-width: 1200px) {
+
+	.container-Picture {
+		display: grid;
+		margin-top: 15%;
+	}
+	.container-Picture-Events {
+		display: grid;
+	}
+	
+	.container-Picture-Events-2 {
+		display: grid;
+	}
+	
+	.container-Picture-2 {
+		display: grid;
+		margin-top: 10%;
+	}	
+	
+
+	.secondText {
+		margin-top: 20%;
+	}
+
+	.right-contact {
+		position: grid;
+		float: center;
+		width: 100%;
+		margin-right: 0%;
+		text-align: center;
+		padding: 5% 0;
+		margin-bottom: 10%;
+
+	}
+	
+	.left-contact {
+		position: grid;
+		float: center;
+		padding-left: 0%;
+		padding-top: 0%;
+		margin:auto;
+		text-align: center;
+		width: 100%;
+	}
+
+	.left-contact p {
+		padding-top: 1%;
+	}
+
+	.hide-this {
+		display:inline-block;
+	}
+
+	.text-Picture-2 {
+		display:none;
+		margin-left: 5%;
+		text-align: left;
+	}
+
+	
+  }
+
+  @media screen and (max-width: 1140px) {
+
+	.right {
+		position: grid;
+		float: center;
+		width: 100%;
+		margin-right: 0%;
+		text-align: left;
+
+
+	}
+	
+	.left {
+		position: grid;
+		float: center;
+		padding-left: 0%;
+		padding-top: 0%;
+		margin:auto;
+		text-align: center;
+		width: 100%;
+		margin-bottom: 10%;
+	
+	}
+
+   }
+   @media screen and (max-width: 1140px) {
+	.left-contact {
+		padding-top: 10%;
+	}
+
+	.effMidpg {
+		margin-left:80px;
+	}
+	
+	.effMidpg1 {
+		margin-left: 80px;
+
+	}
+	
+	.effMidpg2 {
+		margin-left: 80px;
+	}
+	
+   }
+
+
+   @media screen and (max-width: 950px) {
+	.brands-home-page {
+		display:none;
+	}
+	.title-Text {
+		padding-top: 25%;
+	}
+	.effMidpg {
+		font-size: 80px;
+	}
+	
+	.effMidpg1 {
+		font-size: 80px;
+	}
+	
+	.effMidpg2 {
+		font-size: 80px;
+	}
+	input {
+		font-size: 25px;
+	}
+	
+	textarea {
+		font-size: 25px;
+	}
+   }
+
+   @media screen and (max-width: 800px) {
+	.title-Text {
+		font-size: 100px;
+	}
+	.subtitle-Text {
+		font-size: 30px;
+	}
+	.titleFormular {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	iframe {
+		width: 450px;
+		height: 350px;
+	}
+	input {
+		font-size: 20px;
+	}
+	
+	textarea {
+		font-size: 20px;
+	}
+	.form-control {
+		width: 60%;
+	}
+	
+   }
+
+   @media screen and (max-width: 580px) {
+	.shape-Events-2 {
+		height: 350px;
+		width: 350px;
+	}
+	.shape-Events {
+		height: 350px;
+		width: 350px;
+	}
+	.shape {
+		height: 350px;
+		width: 350px;
+	}
+	.shape2 {
+		height: 350px;
+		width: 350px;
+	}
+	
+	.container-Border {
+		height: 550px;
+	}
+	
+	.container-Border-Events {
+		height: 550px;
+	}
+	
+	.container-Border-Events-2 {
+		height: 550px;
+	}
+
+	.right {
+		font-size: 20px;
+	}
+	.form-control {
+		width: 80%;
+	}
+
+   }
+
+   @media screen and (max-width: 500px) {
+
+	iframe {
+		width: 350px;
+		height: 350px;
+	}
+	.right-contact {
+		width: 100%;
+	}
+	.title-Text {
+		padding-top: 35%;
+		font-size: 50px;
+	}
+	.subtitle-Text{
+		font-size: 20px;
+	}
+	.titleFormular {
+		font-size: 55px;
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	.effMidpg {
+		font-size: 60px;
+	}
+	
+	.effMidpg1 {
+		font-size: 60px;
+	}
+	
+	.effMidpg2 {
+		font-size: 60px;
+	}
+   }
+
+   @media screen and (max-width: 410px) {
+	.shape-Events-2 {
+		height: 300px;
+		width: 300px;
+	}
+	.shape-Events {
+		height: 300px;
+		width: 300px;
+	}
+	.shape {
+		height: 300px;
+		width: 300px;
+	}
+	.shape2 {
+		height: 300px;
+		width: 300px;
+	}
+	.titleFormular {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.effMidpg {
+		font-size: 50px;
+	}
+	
+	.effMidpg1 {
+		font-size: 50px;
+	}
+	
+	.effMidpg2 {
+		font-size: 50px;
+	}
+	
+   }
+   @media screen and (max-width: 385px) {
+
+	iframe {
+		width: 250px;
+		height: 250px;
+	}
+	.effMidpg {
+		font-size: 45px;
+	}
+	
+	.effMidpg1 {
+		font-size: 45px;
+	}
+	
+	.effMidpg2 {
+		font-size: 45px;
+	}
+   }
+   @media screen and (max-width: 355px) {
+	.right {
+		font-size: 17px;
+	}
+	.text-Picture {
+		font-size: 17px;
+	}
+	.text-Picture-2 {
+		font-size: 17px;
+	}
+
+	.shape-Events-2 {
+		height: 250px;
+		width: 250px;
+	}
+	.shape-Events {
+		height: 250px;
+		width: 250px;
+	}
+	.shape {
+		height: 250px;
+		width: 250px;
+	}
+	.shape2 {
+		height: 250px;
+		width: 250px;
+	}
+	
+   }
 
 
